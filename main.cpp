@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 	printf("\nWave or click to start tracking your hand...\n");
 
 
-	// establishing baseline
+	// establishing baseline here
 
 
 
